@@ -7,3 +7,4 @@ A curated list of resources, terms, and tools for building on Base L2.
 **L1 Settlement**: Transactions finality on Ethereum.
 **Sequencer**: The node that batches transactions on Base.
 **Fraud Proofs**: The security mechanism for the OP Stack.
+**Superchain**: The interoperable network of L2s (Base, OP, etc).
