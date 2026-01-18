@@ -5,7 +5,7 @@
 - Seamless: Native lending on Base.
 - Moonwell: Open-source lending protocol.
 - BasePaint: Collaborative pixel art onchain.
-Thirdweb SDK
+- Basenames: Onchain identity for everyone.
 Foundry
 Hardhat
 Safe (Multisig)
