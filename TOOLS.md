@@ -8,8 +8,4 @@
 - Basenames: Onchain identity for everyone.
 - OnchainKit: React components for Base.
 - Smart Wallet: No-seed-phrase account.
-RainbowKit
-Ethers.js
-Web3.js
-The Graph
-Dune Analytics
+
