@@ -8,3 +8,4 @@ A curated list of resources, terms, and tools for building on Base L2.
 **Sequencer**: The node that batches transactions on Base.
 **Fraud Proofs**: The security mechanism for the OP Stack.
 **Superchain**: The interoperable network of L2s (Base, OP, etc).
+**Gas Fees**: Paid in ETH on Base, but 10x cheaper than L1.
