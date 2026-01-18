@@ -36,3 +36,6 @@ A curated list of resources, terms, and tools for building on Base L2.
 **Block Time**: Base has a consistent 2-second block time.
 
 **Security**: Base inherits Ethereum's underlying security.
+
+**Fees**: Base offers significantly lower fees than Ethereum L1.
+
