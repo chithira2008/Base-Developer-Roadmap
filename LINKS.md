@@ -13,3 +13,5 @@
 [Ethereum.org L2](https://ethereum.org/en/layer-2/)
 
 [L2Beat - Base](https://l2beat.com/scaling/projects/base)
+
+[Base Camp Training](https://base.mirror.xyz/)
