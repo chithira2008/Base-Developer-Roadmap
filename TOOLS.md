@@ -3,7 +3,7 @@
 - Superbridge: Bridge assets to Base.
 - Aerodrome: The central liquidity hub.
 - Seamless: Native lending on Base.
-QuickNode
+- Moonwell: Open-source lending protocol.
 Infura
 Thirdweb SDK
 Foundry
