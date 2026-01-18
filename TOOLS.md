@@ -4,7 +4,7 @@
 - Aerodrome: The central liquidity hub.
 - Seamless: Native lending on Base.
 - Moonwell: Open-source lending protocol.
-Infura
+- BasePaint: Collaborative pixel art onchain.
 Thirdweb SDK
 Foundry
 Hardhat
