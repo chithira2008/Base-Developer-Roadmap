@@ -2,7 +2,7 @@
 - Dora: A search engine for the Superchain.
 - Superbridge: Bridge assets to Base.
 - Aerodrome: The central liquidity hub.
-Alchemy (Base RPC)
+- Seamless: Native lending on Base.
 QuickNode
 Infura
 Thirdweb SDK
