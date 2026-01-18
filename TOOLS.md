@@ -1,4 +1,4 @@
-BaseScan
+- BaseScan: The primary block explorer.
 Dora Explorer
 Superbridge
 Base Bridge
