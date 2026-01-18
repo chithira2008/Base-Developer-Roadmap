@@ -1,7 +1,7 @@
 - BaseScan: The primary block explorer.
 - Dora: A search engine for the Superchain.
 - Superbridge: Bridge assets to Base.
-Base Bridge
+- Aerodrome: The central liquidity hub.
 Alchemy (Base RPC)
 QuickNode
 Infura
