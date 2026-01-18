@@ -7,7 +7,7 @@
 - BasePaint: Collaborative pixel art onchain.
 - Basenames: Onchain identity for everyone.
 - OnchainKit: React components for Base.
-Wagmi
+- Smart Wallet: No-seed-phrase account.
 RainbowKit
 Ethers.js
 Web3.js
