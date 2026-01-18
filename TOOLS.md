@@ -6,22 +6,7 @@
 - Moonwell: Open-source lending protocol.
 - BasePaint: Collaborative pixel art onchain.
 - Basenames: Onchain identity for everyone.
-Foundry
-Hardhat
-Safe (Multisig)
-Aerodrome Finance
-Seamless Protocol
-Moonwell
-Friend.tech
-BasePaint
-Zora
-Matcha
-Slingshot
-Odos
-Basenames.eth
-OpenZeppelin Contracts
-Solidity
-Viem
+- OnchainKit: React components for Base.
 Wagmi
 RainbowKit
 Ethers.js
