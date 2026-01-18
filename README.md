@@ -14,3 +14,4 @@ A curated list of resources, terms, and tools for building on Base L2.
 **Basenames**: Identity system for the Base ecosystem.
 **Smart Wallet**: Coinbase's gasless, seed-phrase-less wallet.
 **Portal Proxy**: The bridge contract on Ethereum for Base.
+**200ms Blocks**: Base's goal for ultra-fast transaction times.
