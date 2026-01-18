@@ -11,3 +11,4 @@ A curated list of resources, terms, and tools for building on Base L2.
 **Gas Fees**: Paid in ETH on Base, but 10x cheaper than L1.
 **EIP-4844**: The 'Proto-Danksharding' update for lower fees.
 **OnchainKit**: Tools for building onchain apps easily.
+**Basenames**: Identity system for the Base ecosystem.
