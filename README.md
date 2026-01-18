@@ -39,3 +39,5 @@ A curated list of resources, terms, and tools for building on Base L2.
 
 **Fees**: Base offers significantly lower fees than Ethereum L1.
 
+**Coinbase**: The company incubated and launched Base.
+
