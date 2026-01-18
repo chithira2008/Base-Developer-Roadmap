@@ -1,5 +1,5 @@
 - BaseScan: The primary block explorer.
-Dora Explorer
+- Dora: A search engine for the Superchain.
 Superbridge
 Base Bridge
 Alchemy (Base RPC)
