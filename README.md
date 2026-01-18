@@ -34,3 +34,5 @@ A curated list of resources, terms, and tools for building on Base L2.
 **Base Mainnet**: The live network for production apps.
 
 **Block Time**: Base has a consistent 2-second block time.
+
+**Security**: Base inherits Ethereum's underlying security.
