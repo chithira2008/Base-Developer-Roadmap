@@ -41,3 +41,4 @@ A curated list of resources, terms, and tools for building on Base L2.
 
 **Coinbase**: The company incubated and launched Base.
 
+**Superchain**: A network of L2s that share technology.
