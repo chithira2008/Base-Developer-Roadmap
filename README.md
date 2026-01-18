@@ -28,3 +28,5 @@ A curated list of resources, terms, and tools for building on Base L2.
 **Portal Proxy**: The bridge contract on Ethereum for Base.
 
 **200ms Blocks**: Base's goal for ultra-fast transaction times.
+
+- Base Sepolia: The primary testnet for Base developers.
