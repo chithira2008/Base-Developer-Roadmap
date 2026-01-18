@@ -32,3 +32,5 @@ A curated list of resources, terms, and tools for building on Base L2.
 **Base Sepolia**: The primary testnet for Base developers.
 
 **Base Mainnet**: The live network for production apps.
+
+**Block Time**: Base has a consistent 2-second block time.
